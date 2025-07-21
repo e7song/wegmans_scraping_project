@@ -258,7 +258,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "store_id",
         type= int,
-        help= "Wegmans store number (e.g. 156 for Fairport Road)"
+        help= "Wegmans store number (e.g. 156 for Astor Place)"
     )
 
     parser.add_argument(
